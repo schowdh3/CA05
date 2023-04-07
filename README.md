@@ -1,10 +1,10 @@
-# CA05
+# CA05: Movie Recommendation
 This Colab notebook, available at https://colab.research.google.com/drive/1V3Lj2JwY_y5bckvrApU0Z5-k4p3oYHZL#scrollTo=BXimBkwiWY9y, contains code for training a deep learning model on the Fashion-MNIST dataset.
 
-Dataset
+# Dataset
 The dataset was obtained using the following gitub link https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv
 
-Notebook Contents
+# Contents
 The notebook contains the following sections:
 
 Importing Required Libraries: In this section, we import the necessary Python libraries such as TensorFlow and NumPy.
